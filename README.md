@@ -1,6 +1,6 @@
-# Stupidly simple "Hello World!" in WebAssembly
+# Incredibly simple "Hello World!" in WebAssembly from C
 
-This is a tutorial on how to create a stupidly simple program compiling C to WebAssembly. Avoiding as much "glue code" and external libraries as possible.
+This is a tutorial on how to create a incredibly simple program compiling C to WebAssembly. Avoiding as much "glue code" and external libraries as possible.
 
 ## Requirements
 
